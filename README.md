@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   🧠 Making smart things feel simple 💡
 </p>
 <p align="right" style="display: inline-block; width: 35%;">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
+  <img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://tenor.com/search/anime-girl-computer-gifs)" width="200">
 </p>
 ---
 
