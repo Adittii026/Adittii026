@@ -16,19 +16,18 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Heyy, I'm Aditi 💫</h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
+<div>
+  <span style="display: inline-block; width: 60%; vertical-align: middle;">
     <h3>✨ Non-tech girl in the AI world</h3>
     <p>
       🎨 UI/UX enthusiast | Prompt Engineering explorer <br>
       🧠 Making smart things feel simple 💡
     </p>
-  </div>
-  <div style="flex: 1; text-align: right; min-width: 250px;">
+  </span>
+  <span style="display: inline-block; width: 35%; text-align: right; vertical-align: middle;">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
-  </div>
+  </span>
 </div>
-
 ---
 
 ### 👩‍💻 What I'm Up To
