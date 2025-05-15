@@ -16,15 +16,20 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Heyy, I'm Aditi 💫</h1>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyc2hrY21scmJzdnR3YjFiOGp3a3U1a3l6Y2pnbGpkaW5xZ3huZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-</p>
-
-<p align="left">
-  ✨ Non-tech girl in the AI world  
-  <br>🎨 UI/UX enthusiast | Prompt Engineering explorer  
-  <br>🧠 Making smart things feel simple 💡
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <h3>✨ Non-tech girl in the AI world</h3>
+      <p>
+        🎨 UI/UX enthusiast | Prompt Engineering explorer <br>
+        🧠 Making smart things feel simple 💡
+      </p>
+    </td>
+    <td align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyc2hrY21scmJzdnR3YjFiOGp3a3U1a3l6Y2pnbGpkaW5xZ3huZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
