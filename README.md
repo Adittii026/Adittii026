@@ -16,18 +16,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Heyy, I'm Aditi 💫</h1>
 
-<div>
-  <span style="display: inline-block; width: 60%; vertical-align: middle;">
-    <h3>✨ Non-tech girl in the AI world</h3>
-    <p>
-      🎨 UI/UX enthusiast | Prompt Engineering explorer <br>
-      🧠 Making smart things feel simple 💡
-    </p>
-  </span>
-  <span style="display: inline-block; width: 35%; text-align: right; vertical-align: middle;">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
-  </span>
-</div>
+<p align="left" style="display: inline-block; width: 60%;">
+  <strong>✨ Non-tech girl in the AI world</strong><br>
+  🎨 UI/UX enthusiast | Prompt Engineering explorer<br>
+  🧠 Making smart things feel simple 💡
+</p>
+<p align="right" style="display: inline-block; width: 35%;">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
+</p>
 ---
 
 ### 👩‍💻 What I'm Up To
@@ -48,8 +44,9 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adittii026&theme=dark)](https://git.io/streak-stats)
+</p>
 
 ### 📫 Let’s Connect
 
