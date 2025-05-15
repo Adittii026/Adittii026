@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adittii026&theme=dark)](https://git.io/streak-stats)
-</p>
+
 
 ### 📫 Let’s Connect
 
