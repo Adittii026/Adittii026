@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adittii026)](https://git.io/streak-stats)
+
 ### 📫 Let’s Connect
 
 - 🌐 [LinkedIn](www.linkedin.com/in/aditi-das-129199250)
